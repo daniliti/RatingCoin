@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">practikWoRK</string>
+    <string name="t_21">Т-21</string>
+    <string name="i_21">ИСиП-21</string>
+    <string name="o_21">ОиТЗИ-21</string>
+    <string name="t_20">Т-20</string>
+    <string name="i_20">ИСиП-20</string>
+    <string name="o_20">ОиТЗИ-20</string>
+    <string name="i_19">ИСиП-19</string>
+    <string name="o_19">ОиТЗИ-19</string>
+    <string name="back">Назад</string>
+    <string name="logo">Logo</string>
+    <string name="lk">Мой профиль</string>
+    <string name="UG">Учебные группы</string>
+    <string name="title_activity_i_21">i_21</string>
+    <string name="UG2">Группа ИСиП-21</string>
+    <string name="UG3">Группа ОиТЗИ-21</string>
+    <string name="UG4">Группа Т-21</string>
+    <string name="UG5">Группа ИСиП-20</string>
+    <string name="UG6">Группа ОиТЗИ-20</string>
+    <string name="UG7">Группа T-20</string>
+    <string name="UG8">Группа ИСиП-19</string>
+    <string name="UG9">Группа ОиТЗИ-19</string>
+    <string-array name="sgi_19">
+        <item>  1. Андреев Айтал Владимирович</item>
+        <item>  2. Бубякина Алина Александровна</item>
+        <item>  3. Данилова Юлияна Юрьевна</item>
+        <item>  4. Егоров Станислав Павлович</item>
+        <item>  5. Захарова Татьяна Алексеевна</item>
+        <item>  6. Зенченко Николай Эдуардович</item>
+        <item>  7. Иннокентьев Григорий Григорьевич</item>
+        <item>  8. Кононова Юлия Юрьевна</item>
+        <item>  9. Кривошапкин Павел Павлович</item>
+        <item>  10. Куулар Александр Омакович</item>
+        <item>  11. Кузьмин Даниил Анатольевич</item>
+        <item>  12. Лебедев Александр Петрович</item>
+        <item>  13. Лебедев Егор Иванович</item>
+        <item>  14. Мандарова Аисия Егоравна</item>
+        <item>  15. Макаров Владислав Владимирович</item>
+        <item>  16. Родионов Егор Михайлович</item>
+        <item>  17. Свинобоев Максим Александрович</item>
+        <item>  18. Сидоров Дмитрий Егорович</item>
+        <item>  19. Соломонов Ярослав Николаевич</item>
+        <item>  20. федоров Эрчимэн Семенович</item>
+        <item>  21. Сивцева Туйаарыма Федосеевна</item>
+        <item>  22. Хасанов Семен Ибрагимович</item>
+    </string-array>
+    <string name="f">fff</string>
+    <string name="Ki19">Солдатова Елизавета Александровна</string>
+    <string name="Kurator">Куратор</string>
+
+</resources>
